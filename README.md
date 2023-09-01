@@ -11,12 +11,10 @@ They manufacture the popular [iPhone](https://www.apple.com/iphone/), [iPad](htt
 For hardware, their some of their bigger competitors are [Dell](https://www.dell.com/en-us/shop/scc/sc/desktops) and [Lenovo](https://www.lenovo.com/us/en/pc/).  For streaming services they are [Spotify](https://open.spotify.com/), [Amazon Music](https://music.amazon.com/), and [Netflix](https://www.netflix.com/).
 
 ## Technological Advantage
-
-### Why are they considered a fintech company
+Since the introduction of Apple Pay in 2014, Apple has expanded its range of financial products. The services it offers now extend beyond payments, and include both long and short term (BNPL) credit, savings, identification, credit rebates, and tools for merchants to take card payments.### Why are they considered a fintech company
 
 ## Why is the company exemplary in the space
-
-### Strengths
+Apple Pay is safer than using a physical credit, debit, or prepaid card. Face ID, Touch ID, or your passcode are required for purchases on your iPhone, Apple Watch, Mac, or iPad. Your card number and identity aren't shared with merchants, and your actual card numbers aren't stored on your device or on Apple servers.### Strengths
 
 ** Security and Privacy: Apple Pay is known for its strong security measures. It uses device-specific tokens and biometric authentication (such as Touch ID or Face ID) to authorize transactions, making it difficult for unauthorized users to access your payment information.
 
